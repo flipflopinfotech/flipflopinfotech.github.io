@@ -1,0 +1,79 @@
+@media screen and (max-width: 992px) {
+  #technology{
+    background-image: none;
+  }
+  #services{
+    background-image: none;
+  }
+  #pricing{
+    background-image: none;
+  }
+}
+@media screen and (min-width:768px) and (max-width:992px){
+  .carousel-inner {
+    height: 60vh;
+  }
+}
+@media screen and (min-width:768px){
+    .jumbotron{
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+    .btn-lg {
+      width: 100%;
+      margin-bottom: 35px;
+    }
+    .sliderImg{
+      display: none;
+    }
+    .sliderImg img{
+      position: static;
+    }
+    .slide-content {
+      position: static;
+      padding: 75px 5px;
+      text-align: center;
+    }
+    .carousel-inner{
+      height: auto;
+    }
+    a.navbar-brand.logo {
+      background: #fff !important;
+      max-width: 70px;
+      border-radius: 50%;
+      height: 70px;
+      position: absolute;
+      box-shadow: 0px 0px 5px #aeaeae;
+      top: 15px;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      z-index: 9;
+  }
+  .navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 3px;
+    border-radius: 1px;
+    background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #F9096E;
+  }
+  .member{
+    margin-top: 90px;
+  }
+  }
+  @media screen and (max-width: 480px) {
+    .logo {
+      font-size: 150px;
+    }
+  }
+
+  
