@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[966],{2598:function(e,t,l){l.r(t);var a=l(3639),n=l(994),u=l(7408),r=l(3033),s=l(7294);t.default=function(){return s.createElement(r.Z,null,s.createElement(a.Z,null,s.createElement(n.Z,null,s.createElement(u.Z,{sm:12},s.createElement("div",null,s.createElement("h5",null,"hai this is babu blog"))))))}}}]);
+//# sourceMappingURL=component---src-pages-blogs-babu-js-e56d81e334aa98acc76a.js.map

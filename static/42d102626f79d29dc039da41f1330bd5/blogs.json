@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Pravin Raj",
+        "designation": "Full Stack Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "pravin",
+        "img": "dev",
+        "author": "Author Name",
+        "create_date": "Jan 02"
+    },
+    {
+        "name": "Babaulal",
+        "designation": "Full Stack Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "babu",
+        "img": "blogImg",
+        "author": "Author Name",
+        "create_date": "Jan 02"
+    },
+    {
+        "name": "Vijay",
+        "designation": "Frontend Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "vj",
+        "img": "blogImg2",
+        "author": "Author Name",
+        "create_date": "July 23"
+    },
+    {
+        "name": "Prasanna",
+        "designation": "Frontend Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul",
+        "nickname": "prasi",
+        "img": "blogImg",
+        "author": "Author Name",
+        "create_date": "Aug 09"
+    },
+    {
+        "name": "Babaulal",
+        "designation": "Full Stack Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "babu",
+        "img": "blogImg",
+        "author": "Author Name",
+        "create_date": "Jan 02"
+    },
+    {
+        "name": "Vijay",
+        "designation": "Frontend Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "vj",
+        "img": "blogImg2",
+        "author": "Author Name",
+        "create_date": "July 23"
+    },
+    {
+        "name": "Babaulal",
+        "designation": "Full Stack Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "babu",
+        "img": "blogImg",
+        "author": "Author Name",
+        "create_date": "Jan 02"
+    },
+    {
+        "name": "Vijay",
+        "designation": "Frontend Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "vj",
+        "img": "blogImg2",
+        "author": "Author Name",
+        "create_date": "July 23"
+    },
+    {
+        "name": "Vijay",
+        "designation": "Frontend Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "vj",
+        "img": "blogImg3",
+        "author": "Author Name",
+        "create_date": "July 23"
+    },
+    {
+        "name": "Babaulal",
+        "designation": "Full Stack Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "babu",
+        "img": "blogImg",
+        "author": "Author Name",
+        "create_date": "Jan 02"
+    },
+    {
+        "name": "Vijay",
+        "designation": "Frontend Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "vj",
+        "img": "blogImg2",
+        "author": "Author Name",
+        "create_date": "July 23"
+    },
+    {
+        "name": "Prasanna",
+        "designation": "Frontend Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul",
+        "nickname": "prasi",
+        "img": "blogImg3",
+        "author": "Author Name",
+        "create_date": "Aug 09"
+    },
+    {
+        "name": "Babaulal",
+        "designation": "Full Stack Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "babu",
+        "img": "blogImg",
+        "author": "Author Name",
+        "create_date": "Jan 02"
+    },
+    {
+        "name": "Vijay",
+        "designation": "Frontend Developer",
+        "description": "On small screen sizes, using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height). To mitigate this, we add a CSS class called scrollable-menu to the dropdown-menu ul using vanilla Bootstrap the dropdown will get cut off when there is no more space (in height).",
+        "nickname": "vj",
+        "img": "blogImg2",
+        "author": "Author Name",
+        "create_date": "July 23"
+    }
+]
